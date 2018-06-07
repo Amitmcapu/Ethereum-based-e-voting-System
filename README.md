@@ -1,5 +1,6 @@
 # Ethereum-based-e-voting-System
-The “Ethereum Based Decentralized E-Voting System” is a blockchain-based application in which authenticated users can vote for particular candidate. 
+The “Ethereum Based Decentralized E-Voting System” is a blockchain-based application.
+Using this authenticated users can vote for particular candidate. 
 The core idea is to combine the blockchain technology with secret sharing scheme and encryption in order to realize the decentralized e-voting application without a trusted third party. 
 It provides a public and transparent voting process while protecting the anonymity of voter’s identity, the privacy of data transmission and verifiability of ballots during the billing phase.
 
@@ -8,7 +9,9 @@ It provides a public and transparent voting process while protecting the anonymi
 
 # To Install Dependencies
 Step 1: Download node package[npm] manager that comes bundled with node.js.
-Step 2: Download Truffle framewok that allow us to create decentralized application on 	Ethereum network. It provides tools to write smart contracts with solidity 	programming language.
+
+Step 2: Download Truffle framewok that allow us to create decentralized application on Ethereum network. 
+It provides tools to write smart contracts with solidity programming language.
 	Command : npm install –g truffle
 Step 3: Download Ganache is a personal blockchain for Ethereum development used to 	deploy contracts, develop applications, and run tests. It can be downloaded from 	truffleframework website.
 Step 4: Download Metamask extension for Google Chrome browser. It allows to connect to 	the local blockchain wth our personal account.
