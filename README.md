@@ -19,8 +19,10 @@ Step 4: Download Metamask extension for Google Chrome browser. It allows to conn
 Step 1 : Make a project directory and selecting the directory
 	Command : mkdir votingDemo
 	Command : cd votingDemo
+	
 Step 2 : Truffle provides boxes for faster development of decentralized applications.
               It contains other helpful modules,solidity contracts & libraries, front-end views etc.            
 	Unbox truffle pet-shop box in the project.
              Command : truffle unbox pet-shop
+	     
 Step 3 :  Open Visual studio code and select the project folder for development.
