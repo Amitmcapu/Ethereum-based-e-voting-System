@@ -6,8 +6,12 @@ It provides a public and transparent voting process while protecting the anonymi
 
 
 # Working Demo : 
-Below is link for the Screen_record of the work.
+Below is link for the Screen_record of the work and internship certificate.
 
 https://drive.google.com/file/d/1Xwq5SH-0wrJvT2fiLzxpQN0Eij8oU8Mt/view?usp=drivesdk
+
+https://drive.google.com/open?id=1cYSCyVj0_7pR97R7LN7HquR3sU-6kBou
+
+
 
 	     
