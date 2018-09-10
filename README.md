@@ -6,7 +6,7 @@ It provides a public and transparent voting process while protecting the anonymi
 
 
 # Working Demo : 
-Follow this link to see working of the decentralized e-voting system
+Follow this link for the working of the decentralized e-voting system.
 
 https://drive.google.com/file/d/1Xwq5SH-0wrJvT2fiLzxpQN0Eij8oU8Mt/view?usp=drivesdk
 
