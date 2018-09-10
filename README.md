@@ -5,10 +5,8 @@ The core idea is to combine the blockchain technology with secret sharing scheme
 It provides a public and transparent voting process while protecting the anonymity of voter’s identity, the privacy of data transmission and verifiability of ballots.
 
 
-# Working Demo : 
-Below is link for the Screen_record of the work and internship certificate.
-
-
+# Work Sample : 
+Below is link for the Screenrecord and internship certificate.
 
 https://drive.google.com/open?id=1IKt4ttEE0x45Kd9YLMQjbKo8gEU-QE8k
 
